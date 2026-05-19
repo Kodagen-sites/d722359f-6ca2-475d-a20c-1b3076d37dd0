@@ -1,0 +1,25 @@
+{
+  "images": {
+    "section-about": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/d722359f-6ca2-475d-a20c-1b3076d37dd0/images/section-about.jpg",
+    "section-capability-1": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/d722359f-6ca2-475d-a20c-1b3076d37dd0/images/section-capability-1.jpg",
+    "section-cta": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/d722359f-6ca2-475d-a20c-1b3076d37dd0/images/section-cta.jpg",
+    "section-capability-3": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/d722359f-6ca2-475d-a20c-1b3076d37dd0/images/section-capability-3.jpg",
+    "section-capability-2": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/d722359f-6ca2-475d-a20c-1b3076d37dd0/images/section-capability-2.jpg",
+    "section-services": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/d722359f-6ca2-475d-a20c-1b3076d37dd0/images/section-services.jpg",
+    "service-armed-escort": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/d722359f-6ca2-475d-a20c-1b3076d37dd0/images/service-armed-escort.jpg",
+    "hero-poster": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/d722359f-6ca2-475d-a20c-1b3076d37dd0/images/hero-poster.jpg",
+    "service-close-protection": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/d722359f-6ca2-475d-a20c-1b3076d37dd0/images/service-close-protection.jpg",
+    "section-contact": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/d722359f-6ca2-475d-a20c-1b3076d37dd0/images/section-contact.jpg",
+    "service-executive-protection": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/d722359f-6ca2-475d-a20c-1b3076d37dd0/images/service-executive-protection.jpg",
+    "service-event-security": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/d722359f-6ca2-475d-a20c-1b3076d37dd0/images/service-event-security.jpg",
+    "service-vip-escort": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/d722359f-6ca2-475d-a20c-1b3076d37dd0/images/service-vip-escort.jpg",
+    "service-k9-units": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/d722359f-6ca2-475d-a20c-1b3076d37dd0/images/service-k9-units.jpg",
+    "service-residential-security": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/d722359f-6ca2-475d-a20c-1b3076d37dd0/images/service-residential-security.jpg"
+  },
+  "videos": {
+    "scene-1": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/d722359f-6ca2-475d-a20c-1b3076d37dd0/videos/scene-1.mp4"
+  },
+  "frames": {},
+  "bucket": "site-assets",
+  "projectId": "d722359f-6ca2-475d-a20c-1b3076d37dd0"
+}
